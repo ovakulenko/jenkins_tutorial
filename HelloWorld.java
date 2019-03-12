@@ -1,4 +1,4 @@
-/* This is a not simple Java program.
+/* This is a not simple Java program 2.
    FileName : "HelloWorld.java". */
 import java.util.Date;
 
